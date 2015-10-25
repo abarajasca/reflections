@@ -2,6 +2,8 @@ Main Commands in git and meaning:
 
 git log			show all the commits on the repository
 git status		show the status of files and changes on that and the corresponding 			status .
-git checkout		get last version from a online repository and puts in local 			repository
+git checkout		get a selected commit to the version list to works as last 			version
 git init		Initialize a new local repository.
 git add 		Add new files or changes to a commit in the repository.
+git clone		get a new repository on my local from a main repository.
+git diff 		Show the diferrences between two commits on the repository.
