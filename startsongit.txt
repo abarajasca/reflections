@@ -1,0 +1,4 @@
+- Git is a tool to track changes on files, very useful for programers.
+- Git can trac the changes and share with other developers on line. using github.
+- Git is used with a command line with several commands like:
+  Useful commands and meanings:
