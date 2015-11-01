@@ -7,3 +7,5 @@ instead of another?
 
 You use forks to clone between differentes accounts in GitHub, Clones , make copies from repositorios from Remote to local or local-local, Branches make a different path code for 
 in a specific master branch
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
